@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const base_url="http://https://smdbserver-3iux.onrender.com"
+const base_url="https://smdbserver-3iux.onrender.com"
 
 
 export const addMovieApi=async(data)=>{
